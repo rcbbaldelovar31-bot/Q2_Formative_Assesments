@@ -11,7 +11,7 @@ while True:
   print("subtraction = 2")
   print("multiplication = 3")
   print("division = 4")
-  select =int(input("please choose an operation of your choice: "))
+  select = int(input("please choose an operation of your choice: "))
 #This part of the code asks to user to pick an operation
 
   if select > 4 or select < 1:
